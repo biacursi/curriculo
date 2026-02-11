@@ -110,6 +110,8 @@
   top: -4px;
 }
 
+/* atualização de icones */
+
 .cursos h3::before {
   background: url("../img/cursos.svg") no-repeat center center;
 }
